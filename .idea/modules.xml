@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Restaurant_B5/Restaurant_B5.iml" filepath="$PROJECT_DIR$/Adapter/Restaurant_B5/Restaurant_B5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -9,8 +13,15 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4_prb2_prototype/Seminar4_prb2_prototype.iml" filepath="$PROJECT_DIR$/Seminar4_prb2_prototype/Seminar4_prb2_prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5_builder.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5_builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_builder_v2/Seminar5_builder_v2.iml" filepath="$PROJECT_DIR$/Seminar5_builder_v2/Seminar5_builder_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" filepath="$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" filepath="$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.1.iml" filepath="$PROJECT_DIR$/seminar1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5_factory_method/seminar5_factory_method.iml" filepath="$PROJECT_DIR$/seminar5_factory_method/seminar5_factory_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_adapterDeClase_A5/seminar6_adapterDeClase_A5.iml" filepath="$PROJECT_DIR$/seminar6_adapterDeClase_A5/seminar6_adapterDeClase_A5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6_adapterDeObiecte_A5/seminar6_adapterDeObiecte_A5.iml" filepath="$PROJECT_DIR$/seminar6_adapterDeObiecte_A5/seminar6_adapterDeObiecte_A5.iml" />
     </modules>
   </component>
 </project>
