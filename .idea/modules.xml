@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" filepath="$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" filepath="$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" filepath="$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.1.iml" filepath="$PROJECT_DIR$/seminar1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5_factory_method/seminar5_factory_method.iml" filepath="$PROJECT_DIR$/seminar5_factory_method/seminar5_factory_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar6_adapterDeClase_A5/seminar6_adapterDeClase_A5.iml" filepath="$PROJECT_DIR$/seminar6_adapterDeClase_A5/seminar6_adapterDeClase_A5.iml" />
