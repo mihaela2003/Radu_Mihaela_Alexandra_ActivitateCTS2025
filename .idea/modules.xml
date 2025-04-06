@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/seminar5_factory_method/seminar5_factory_method.iml" filepath="$PROJECT_DIR$/seminar5_factory_method/seminar5_factory_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar6_adapterDeClase_A5/seminar6_adapterDeClase_A5.iml" filepath="$PROJECT_DIR$/seminar6_adapterDeClase_A5/seminar6_adapterDeClase_A5.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar6_adapterDeObiecte_A5/seminar6_adapterDeObiecte_A5.iml" filepath="$PROJECT_DIR$/seminar6_adapterDeObiecte_A5/seminar6_adapterDeObiecte_A5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/serialization/serialization.iml" filepath="$PROJECT_DIR$/Singleton/serialization/serialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/static_block_initialization/static_block_initialization.iml" filepath="$PROJECT_DIR$/Singleton/static_block_initialization/static_block_initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/thread_safe/thread_safe.iml" filepath="$PROJECT_DIR$/Singleton/thread_safe/thread_safe.iml" />
     </modules>
