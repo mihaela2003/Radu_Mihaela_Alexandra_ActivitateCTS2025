@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/AgentieTurism/AgentieTurism.iml" filepath="$PROJECT_DIR$/SimpleFactory/AgentieTurism/AgentieTurism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Restaurant_B5/Restaurant_B5.iml" filepath="$PROJECT_DIR$/Adapter/Restaurant_B5/Restaurant_B5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" filepath="$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
@@ -13,7 +18,10 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4_prb2_prototype/Seminar4_prb2_prototype.iml" filepath="$PROJECT_DIR$/Seminar4_prb2_prototype/Seminar4_prb2_prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5_builder.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5_builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5_builder_v2/Seminar5_builder_v2.iml" filepath="$PROJECT_DIR$/Seminar5_builder_v2/Seminar5_builder_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Spital_A2/Spital_A2.iml" filepath="$PROJECT_DIR$/SimpleFactory/Spital_A2/Spital_A2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" filepath="$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" filepath="$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" />
