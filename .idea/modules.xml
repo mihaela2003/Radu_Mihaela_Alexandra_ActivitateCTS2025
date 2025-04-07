@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/AgentieTurism/AgentieTurism.iml" filepath="$PROJECT_DIR$/SimpleFactory/AgentieTurism/AgentieTurism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/AgentieTurismFactoryMethod/AgentieTurismFactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/AgentieTurismFactoryMethod/AgentieTurismFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
