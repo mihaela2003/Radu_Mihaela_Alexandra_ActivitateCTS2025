@@ -1,7 +1,7 @@
 package spitalPrototype.main;
 
 import spitalPrototype.clase.RetetaMedicament;
-import spitalPrototype.clase.RetetaPrototype;
+import spitalPrototype.clase.RetetaAbstract;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -13,9 +13,9 @@ public class Main {
         listaSolutiiParacetamol.put("ingredient2", 15.9);
         listaSolutiiParacetamol.put("ingredient3", 25.4);
 
-        RetetaPrototype retetaMedicament = new RetetaMedicament("Gigel", "xfrg14", "Paracetamol", listaSolutiiParacetamol);
+        RetetaAbstract retetaMedicament = new RetetaMedicament("Gigel", "xfrg14", "Paracetamol", listaSolutiiParacetamol);
         System.out.println(retetaMedicament);
-        RetetaPrototype retetaMedicament2 = retetaMedicament.copiaza("Paracetamol");
+        RetetaAbstract retetaMedicament2 = retetaMedicament.copiaza("Paracetamol");
         System.out.println(retetaMedicament2);
     }
 }

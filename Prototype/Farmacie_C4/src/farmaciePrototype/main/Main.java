@@ -1,7 +1,7 @@
 package farmaciePrototype.main;
 
 import farmaciePrototype.clase.RetetaMedicament;
-import farmaciePrototype.clase.RetetaPrototype;
+import farmaciePrototype.clase.RetetaAbstract;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -13,9 +13,9 @@ public class Main {
         listaCantitati.put("ingredient2", 20.7);
         listaCantitati.put("ingredient3", 25.9);
 
-        RetetaPrototype reteta = new RetetaMedicament("Cornel", "12fgout", "Paracetamol", listaCantitati);
+        RetetaAbstract reteta = new RetetaMedicament("Cornel", "12fgout", "Paracetamol", listaCantitati);
         System.out.println(reteta);
-        RetetaPrototype reteta2 = reteta.copiaza("Paracetamol");
+        RetetaAbstract reteta2 = reteta.copiaza("Paracetamol");
         System.out.println(reteta2);
     }
 }

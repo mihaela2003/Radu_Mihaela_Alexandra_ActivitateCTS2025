@@ -1,6 +1,6 @@
 package restaurantPrototype.clase;
 
-public class Client extends ClientPrototype{
+public class Client extends ClientAbstract {
     private String nume;
     private String nrTelefon;
 
@@ -15,7 +15,7 @@ public class Client extends ClientPrototype{
     }
 
     @Override
-    public ClientPrototype copiaza(String dataRezervare) {
+    public ClientAbstract copiaza(String dataRezervare) {
         Client client = new Client();
         client.tipRezervare = this.tipRezervare;
         client.nrPersoane = this.nrPersoane;

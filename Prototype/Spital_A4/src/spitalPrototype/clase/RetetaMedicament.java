@@ -3,7 +3,7 @@ package spitalPrototype.clase;
 import java.util.HashMap;
 import java.util.Map;
 
-public class RetetaMedicament extends RetetaPrototype{
+public class RetetaMedicament extends RetetaAbstract {
     private String denumireMedicament;
     private Map<String, Double> cantitatiSolutii;
 
@@ -25,7 +25,7 @@ public class RetetaMedicament extends RetetaPrototype{
     }
 
     @Override
-    public RetetaPrototype copiaza(String denumireMedicament) {
+    public RetetaAbstract copiaza(String denumireMedicament) {
         RetetaMedicament retetaMedicament = new RetetaMedicament();
         retetaMedicament.codReteta = this.codReteta;
         retetaMedicament.numeChimist = this.numeChimist;

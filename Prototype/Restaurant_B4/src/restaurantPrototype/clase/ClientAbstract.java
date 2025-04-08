@@ -1,12 +1,12 @@
 package restaurantPrototype.clase;
 
-public abstract class ClientPrototype {
+public abstract class ClientAbstract {
     protected String tipRezervare;
     protected int nrPersoane;
     protected String dataRezervare;
     protected int oraRezervare;
 
-    public ClientPrototype(String tipRezervare, int nrPersoane, String dataRezervare, int oraRezervare) {
+    public ClientAbstract(String tipRezervare, int nrPersoane, String dataRezervare, int oraRezervare) {
         if (tipRezervare.length() > 0) {
             this.tipRezervare = tipRezervare;
         } else {
@@ -29,14 +29,14 @@ public abstract class ClientPrototype {
         }
     }
 
-    public ClientPrototype() {
+    public ClientAbstract() {
         this.tipRezervare = "nu conteaza";
         this.nrPersoane = 2;
         this.dataRezervare = "25 ianuarie 2024";
         this.oraRezervare = 10;
     }
 
-    public abstract ClientPrototype copiaza(String dataRezervare);
+    public abstract ClientAbstract copiaza(String dataRezervare);
 
     @Override
     public String toString() {

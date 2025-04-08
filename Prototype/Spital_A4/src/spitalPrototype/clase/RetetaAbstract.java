@@ -1,15 +1,10 @@
-package farmaciePrototype.clase;
+package spitalPrototype.clase;
 
-public abstract class RetetaPrototype {
+public abstract class RetetaAbstract {
     protected String numeChimist;
     protected String codReteta;
 
-    public RetetaPrototype() {
-        this.numeChimist = "Anonim";
-        this.codReteta = "X1X2X3";
-    }
-
-    public RetetaPrototype(String numeChimist, String codReteta) {
+    public RetetaAbstract(String numeChimist, String codReteta) {
         if (numeChimist.length() > 0) {
             this.numeChimist = numeChimist;
         } else {
@@ -22,7 +17,12 @@ public abstract class RetetaPrototype {
         }
     }
 
-    public abstract RetetaPrototype copiaza(String denumireMedicament);
+    public RetetaAbstract() {
+        this.numeChimist = "Anonim";
+        this.codReteta = "X1X2X3";
+    }
+
+    public abstract RetetaAbstract copiaza(String denumireMedicament);
 
     @Override
     public String toString() {
