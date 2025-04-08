@@ -17,9 +17,11 @@
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v1/Restaurant_B2/Restaurant_B2.iml" filepath="$PROJECT_DIR$/Builder_v1/Restaurant_B2/Restaurant_B2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" filepath="$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Restaurant_B4/Restaurant_B4.iml" filepath="$PROJECT_DIR$/Prototype/Restaurant_B4/Restaurant_B4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/Restaurant_B5/Restaurant_B5.iml" filepath="$PROJECT_DIR$/Adapter/Restaurant_B5/Restaurant_B5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v2/Restaurant__B1/Restaurant__B1.iml" filepath="$PROJECT_DIR$/Builder_v2/Restaurant__B1/Restaurant__B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" filepath="$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
