@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Farmacie_C2/Farmacie_C2.iml" filepath="$PROJECT_DIR$/FactoryMethod/Farmacie_C2/Farmacie_C2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" filepath="$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" />
