@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/AgentieTurismFactoryMethod/AgentieTurismFactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/AgentieTurismFactoryMethod/AgentieTurismFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Banca_D4/Banca_D4.iml" filepath="$PROJECT_DIR$/Prototype/Banca_D4/Banca_D4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v1/Builder_v1.iml" filepath="$PROJECT_DIR$/Builder_v1/Builder_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v2/Builder_v2.iml" filepath="$PROJECT_DIR$/Builder_v2/Builder_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" />
@@ -28,9 +30,11 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5_builder_v2/Seminar5_builder_v2.iml" filepath="$PROJECT_DIR$/Seminar5_builder_v2/Seminar5_builder_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v1/Spital_A1/Spital_A1.iml" filepath="$PROJECT_DIR$/Builder_v1/Spital_A1/Spital_A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Spital_A2/Spital_A2.iml" filepath="$PROJECT_DIR$/SimpleFactory/Spital_A2/Spital_A2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Spital_A3/Spital_A3.iml" filepath="$PROJECT_DIR$/FactoryMethod/Spital_A3/Spital_A3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Spital_A4/Spital_A4.iml" filepath="$PROJECT_DIR$/Prototype/Spital_A4/Spital_A4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v2/Spital__A1/Spital__A1.iml" filepath="$PROJECT_DIR$/Builder_v2/Spital__A1/Spital__A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" filepath="$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" />
