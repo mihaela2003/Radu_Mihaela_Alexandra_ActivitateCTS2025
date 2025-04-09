@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/AgentieTurism/AgentieTurism.iml" filepath="$PROJECT_DIR$/SimpleFactory/AgentieTurism/AgentieTurism.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/AgentieTurismFactoryMethod/AgentieTurismFactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/AgentieTurismFactoryMethod/AgentieTurismFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v1/Banca__D1/Banca_D3.iml" filepath="$PROJECT_DIR$/Builder_v1/Banca__D1/Banca_D3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Banca_D4/Banca_D4.iml" filepath="$PROJECT_DIR$/Prototype/Banca_D4/Banca_D4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v1/Banca__D3/Banca__D3.iml" filepath="$PROJECT_DIR$/Builder_v1/Banca__D3/Banca__D3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder_v2/Banca___D3/Banca___D3.iml" filepath="$PROJECT_DIR$/Builder_v2/Banca___D3/Banca___D3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Builder_v1.iml" filepath="$PROJECT_DIR$/Builder_v1/Builder_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Builder_v2.iml" filepath="$PROJECT_DIR$/Builder_v2/Builder_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiecte_test1/Cinematograf/Cinematograf.iml" filepath="$PROJECT_DIR$/Subiecte_test1/Cinematograf/Cinematograf.iml" />
@@ -17,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/Builder_v1/Farmacie_C3/Farmacie_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Farmacie_C4/Farmacie_C4.iml" filepath="$PROJECT_DIR$/Prototype/Farmacie_C4/Farmacie_C4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Farmacie__C3/Farmacie__C3.iml" filepath="$PROJECT_DIR$/Builder_v2/Farmacie__C3/Farmacie__C3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subiecte_test1/MagazinPantofi/MagazinPantofi.iml" filepath="$PROJECT_DIR$/Subiecte_test1/MagazinPantofi/MagazinPantofi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
