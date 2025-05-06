@@ -21,10 +21,12 @@
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/Builder_v1/Farmacie_C3/Farmacie_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Farmacie_C4/Farmacie_C4.iml" filepath="$PROJECT_DIR$/Prototype/Farmacie_C4/Farmacie_C4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Farmacie__C3/Farmacie__C3.iml" filepath="$PROJECT_DIR$/Builder_v2/Farmacie__C3/Farmacie__C3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiecte_test1/MagazinPantofi/MagazinPantofi.iml" filepath="$PROJECT_DIR$/Subiecte_test1/MagazinPantofi/MagazinPantofi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/Restaurant_B10/Restaurant_B10.iml" filepath="$PROJECT_DIR$/Flyweight/Restaurant_B10/Restaurant_B10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Restaurant_B2/Restaurant_B2.iml" filepath="$PROJECT_DIR$/Builder_v1/Restaurant_B2/Restaurant_B2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" filepath="$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Restaurant_B4/Restaurant_B4.iml" filepath="$PROJECT_DIR$/Prototype/Restaurant_B4/Restaurant_B4.iml" />
@@ -53,7 +55,9 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" filepath="$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/agentie/agentie.iml" filepath="$PROJECT_DIR$/Composite/agentie/agentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/agentieFlyweight/agentieFlyweight.iml" filepath="$PROJECT_DIR$/Flyweight/agentieFlyweight/agentieFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" filepath="$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" filepath="$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" filepath="$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.1.iml" filepath="$PROJECT_DIR$/seminar1.1.iml" />
