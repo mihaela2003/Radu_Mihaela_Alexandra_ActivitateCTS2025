@@ -51,13 +51,16 @@
       <module fileurl="file://$PROJECT_DIR$/Prototype/Spital_A4/Spital_A4.iml" filepath="$PROJECT_DIR$/Prototype/Spital_A4/Spital_A4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Spital__A1/Spital__A1.iml" filepath="$PROJECT_DIR$/Builder_v2/Spital__A1/Spital__A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiecte_test1/Subiecte_test1.iml" filepath="$PROJECT_DIR$/Subiecte_test1/Subiecte_test1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" filepath="$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/agentie/agentie.iml" filepath="$PROJECT_DIR$/Composite/agentie/agentie.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/agentieFlyweight/agentieFlyweight.iml" filepath="$PROJECT_DIR$/Flyweight/agentieFlyweight/agentieFlyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/agentieStrategy/agentieStrategy.iml" filepath="$PROJECT_DIR$/Strategy/agentieStrategy/agentieStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" filepath="$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" filepath="$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/hotelStrategy/hotelStrategy.iml" filepath="$PROJECT_DIR$/Strategy/hotelStrategy/hotelStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" filepath="$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.1.iml" filepath="$PROJECT_DIR$/seminar1.1.iml" />
