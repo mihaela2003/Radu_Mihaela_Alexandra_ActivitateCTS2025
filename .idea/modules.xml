@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Restaurant_B10/Restaurant_B10.iml" filepath="$PROJECT_DIR$/Flyweight/Restaurant_B10/Restaurant_B10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Restaurant_B11/Restaurant_B11.iml" filepath="$PROJECT_DIR$/Strategy/Restaurant_B11/Restaurant_B11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Restaurant_B2/Restaurant_B2.iml" filepath="$PROJECT_DIR$/Builder_v1/Restaurant_B2/Restaurant_B2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" filepath="$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Restaurant_B4/Restaurant_B4.iml" filepath="$PROJECT_DIR$/Prototype/Restaurant_B4/Restaurant_B4.iml" />
@@ -47,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Spital_A1/Spital_A1.iml" filepath="$PROJECT_DIR$/Builder_v1/Spital_A1/Spital_A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Spital_A10/Spital_A10.iml" filepath="$PROJECT_DIR$/Flyweight/Spital_A10/Spital_A10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Spital_A11/Spital_A11.iml" filepath="$PROJECT_DIR$/Strategy/Spital_A11/Spital_A11.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Spital_A2/Spital_A2.iml" filepath="$PROJECT_DIR$/SimpleFactory/Spital_A2/Spital_A2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Spital_A3/Spital_A3.iml" filepath="$PROJECT_DIR$/FactoryMethod/Spital_A3/Spital_A3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Spital_A4/Spital_A4.iml" filepath="$PROJECT_DIR$/Prototype/Spital_A4/Spital_A4.iml" />
