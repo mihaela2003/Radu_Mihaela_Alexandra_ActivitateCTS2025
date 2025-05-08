@@ -68,6 +68,8 @@
       <module fileurl="file://$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" filepath="$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.1.iml" filepath="$PROJECT_DIR$/seminar1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar10_flyweight/seminar10_flyweight.iml" filepath="$PROJECT_DIR$/seminar10_flyweight/seminar10_flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar10_template/seminar10_template.iml" filepath="$PROJECT_DIR$/seminar10_template/seminar10_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar5_factory_method/seminar5_factory_method.iml" filepath="$PROJECT_DIR$/seminar5_factory_method/seminar5_factory_method.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar6_adapterDeClase_A5/seminar6_adapterDeClase_A5.iml" filepath="$PROJECT_DIR$/seminar6_adapterDeClase_A5/seminar6_adapterDeClase_A5.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar6_adapterDeObiecte_A5/seminar6_adapterDeObiecte_A5.iml" filepath="$PROJECT_DIR$/seminar6_adapterDeObiecte_A5/seminar6_adapterDeObiecte_A5.iml" />
