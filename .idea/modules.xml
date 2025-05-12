@@ -66,6 +66,8 @@
       <module fileurl="file://$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" filepath="$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/hotelStrategy/hotelStrategy.iml" filepath="$PROJECT_DIR$/Strategy/hotelStrategy/hotelStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recuperare_observer/recuperare_observer.iml" filepath="$PROJECT_DIR$/recuperare_observer/recuperare_observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recuperare_strategy/recuperare_strategy.iml" filepath="$PROJECT_DIR$/recuperare_strategy/recuperare_strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" filepath="$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.1.iml" filepath="$PROJECT_DIR$/seminar1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar10_flyweight/seminar10_flyweight.iml" filepath="$PROJECT_DIR$/seminar10_flyweight/seminar10_flyweight.iml" />
