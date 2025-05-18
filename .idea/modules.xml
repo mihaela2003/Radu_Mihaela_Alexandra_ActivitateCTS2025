@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/AgentieTurism/AgentieTurism.iml" filepath="$PROJECT_DIR$/SimpleFactory/AgentieTurism/AgentieTurism.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/AgentieTurismFactoryMethod/AgentieTurismFactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/AgentieTurismFactoryMethod/AgentieTurismFactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Banca_D1/Banca_D1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/Banca_D10/Banca_D10.iml" filepath="$PROJECT_DIR$/Flyweight/Banca_D10/Banca_D10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Banca__D1/Banca_D3.iml" filepath="$PROJECT_DIR$/Builder_v1/Banca__D1/Banca_D3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Banca_D4/Banca_D4.iml" filepath="$PROJECT_DIR$/Prototype/Banca_D4/Banca_D4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Banca_D9/Banca_D9.iml" filepath="$PROJECT_DIR$/Composite/Banca_D9/Banca_D9.iml" />
