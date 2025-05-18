@@ -70,6 +70,7 @@
       <module fileurl="file://$PROJECT_DIR$/recuperare_strategy/recuperare_strategy.iml" filepath="$PROJECT_DIR$/recuperare_strategy/recuperare_strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" filepath="$PROJECT_DIR$/Singleton/registry_of_singletons/registry_of_singletons.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar1.1.iml" filepath="$PROJECT_DIR$/seminar1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar10_composite/seminar10_composite.iml" filepath="$PROJECT_DIR$/seminar10_composite/seminar10_composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar10_flyweight/seminar10_flyweight.iml" filepath="$PROJECT_DIR$/seminar10_flyweight/seminar10_flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar10_template/seminar10_template.iml" filepath="$PROJECT_DIR$/seminar10_template/seminar10_template.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar11_chainOfResponsability/seminar11_chainOfResponsability.iml" filepath="$PROJECT_DIR$/seminar11_chainOfResponsability/seminar11_chainOfResponsability.iml" />
