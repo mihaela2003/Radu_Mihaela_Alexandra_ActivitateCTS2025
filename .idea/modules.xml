@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Farmacie_C10/Farmacie_C10.iml" filepath="$PROJECT_DIR$/Flyweight/Farmacie_C10/Farmacie_C10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Farmacie_C11/Farmacie_C11.iml" filepath="$PROJECT_DIR$/Strategy/Farmacie_C11/Farmacie_C11.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Farmacie_C2/Farmacie_C2.iml" filepath="$PROJECT_DIR$/FactoryMethod/Farmacie_C2/Farmacie_C2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/Builder_v1/Farmacie_C3/Farmacie_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Farmacie_C4/Farmacie_C4.iml" filepath="$PROJECT_DIR$/Prototype/Farmacie_C4/Farmacie_C4.iml" />
