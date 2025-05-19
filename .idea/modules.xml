@@ -46,6 +46,7 @@
       <module fileurl="file://$PROJECT_DIR$/Decorator/Restaurant_B7/Restaurant_B7.iml" filepath="$PROJECT_DIR$/Decorator/Restaurant_B7/Restaurant_B7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Restaurant_B8/Restaurant_B8.iml" filepath="$PROJECT_DIR$/Composite/Restaurant_B8/Restaurant_B8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Restaurant__B1/Restaurant__B1.iml" filepath="$PROJECT_DIR$/Builder_v2/Restaurant__B1/Restaurant__B1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/STB_10/STB_10.iml" filepath="$PROJECT_DIR$/Strategy/STB_10/STB_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" filepath="$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/STB_F7/STB_F7.iml" filepath="$PROJECT_DIR$/Decorator/STB_F7/STB_F7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/STB_F9/STB_F9.iml" filepath="$PROJECT_DIR$/Flyweight/STB_F9/STB_F9.iml" />
