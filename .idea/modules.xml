@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Banca_D10/Banca_D10.iml" filepath="$PROJECT_DIR$/Flyweight/Banca_D10/Banca_D10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Banca__D1/Banca_D3.iml" filepath="$PROJECT_DIR$/Builder_v1/Banca__D1/Banca_D3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Banca_D4/Banca_D4.iml" filepath="$PROJECT_DIR$/Prototype/Banca_D4/Banca_D4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Banca_D7/Banca_D7.iml" filepath="$PROJECT_DIR$/Decorator/Banca_D7/Banca_D7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Banca_D9/Banca_D9.iml" filepath="$PROJECT_DIR$/Composite/Banca_D9/Banca_D9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Banca__D3/Banca__D3.iml" filepath="$PROJECT_DIR$/Builder_v1/Banca__D3/Banca__D3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Banca___D3/Banca___D3.iml" filepath="$PROJECT_DIR$/Builder_v2/Banca___D3/Banca___D3.iml" />
@@ -65,6 +66,7 @@
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Spital__A1/Spital__A1.iml" filepath="$PROJECT_DIR$/Builder_v2/Spital__A1/Spital__A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Sportiv_E10/Sportiv_E10.iml" filepath="$PROJECT_DIR$/Flyweight/Sportiv_E10/Sportiv_E10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Sportiv_E7/Sportiv_E7.iml" filepath="$PROJECT_DIR$/Decorator/Sportiv_E7/Sportiv_E7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Sportiv_E9/Sportiv_E9.iml" filepath="$PROJECT_DIR$/Composite/Sportiv_E9/Sportiv_E9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiecte_test1/Subiecte_test1.iml" filepath="$PROJECT_DIR$/Subiecte_test1/Subiecte_test1.iml" />
