@@ -80,6 +80,7 @@
       <module fileurl="file://$PROJECT_DIR$/Strategy/agentieStrategy/agentieStrategy.iml" filepath="$PROJECT_DIR$/Strategy/agentieStrategy/agentieStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" filepath="$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/facturaDecorator/facturaDecorator.iml" filepath="$PROJECT_DIR$/Decorator/facturaDecorator/facturaDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/hotelFacade/hotelFacade.iml" filepath="$PROJECT_DIR$/Facade/hotelFacade/hotelFacade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" filepath="$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/hotelStrategy/hotelStrategy.iml" filepath="$PROJECT_DIR$/Strategy/hotelStrategy/hotelStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" />
