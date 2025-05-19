@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Builder_v2.iml" filepath="$PROJECT_DIR$/Builder_v2/Builder_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiecte_test1/Cinematograf/Cinematograf.iml" filepath="$PROJECT_DIR$/Subiecte_test1/Cinematograf/Cinematograf.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" />
@@ -67,9 +68,11 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" filepath="$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/agentie/agentie.iml" filepath="$PROJECT_DIR$/Composite/agentie/agentie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/agentieDecorator/agentieDecorator.iml" filepath="$PROJECT_DIR$/Decorator/agentieDecorator/agentieDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/agentieFlyweight/agentieFlyweight.iml" filepath="$PROJECT_DIR$/Flyweight/agentieFlyweight/agentieFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/agentieStrategy/agentieStrategy.iml" filepath="$PROJECT_DIR$/Strategy/agentieStrategy/agentieStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" filepath="$PROJECT_DIR$/Singleton/eager_initialization/eager_initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/facturaDecorator/facturaDecorator.iml" filepath="$PROJECT_DIR$/Decorator/facturaDecorator/facturaDecorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" filepath="$PROJECT_DIR$/Flyweight/hotelFlyweight/hotelFlyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/hotelStrategy/hotelStrategy.iml" filepath="$PROJECT_DIR$/Strategy/hotelStrategy/hotelStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" filepath="$PROJECT_DIR$/Singleton/lazy_initialization/lazy_initialization.iml" />
