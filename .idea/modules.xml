@@ -31,10 +31,12 @@
       <module fileurl="file://$PROJECT_DIR$/Facade/Farmacie_C6/Farmacie_C6.iml" filepath="$PROJECT_DIR$/Facade/Farmacie_C6/Farmacie_C6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Farmacie_C7/Farmacie_C7.iml" filepath="$PROJECT_DIR$/Decorator/Farmacie_C7/Farmacie_C7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Farmacie_C8/Farmacie_C8.iml" filepath="$PROJECT_DIR$/Composite/Farmacie_C8/Farmacie_C8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Farmacie_C9/Farmacie_C9.iml" filepath="$PROJECT_DIR$/Proxy/Farmacie_C9/Farmacie_C9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Farmacie__C3/Farmacie__C3.iml" filepath="$PROJECT_DIR$/Builder_v2/Farmacie__C3/Farmacie__C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiecte_test1/MagazinPantofi/MagazinPantofi.iml" filepath="$PROJECT_DIR$/Subiecte_test1/MagazinPantofi/MagazinPantofi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/Restaurant-B5/Restaurant-B5.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Restaurant_B10/Restaurant_B10.iml" filepath="$PROJECT_DIR$/Flyweight/Restaurant_B10/Restaurant_B10.iml" />
@@ -46,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/Facade/Restaurant_B6/Restaurant_B6.iml" filepath="$PROJECT_DIR$/Facade/Restaurant_B6/Restaurant_B6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Restaurant_B7/Restaurant_B7.iml" filepath="$PROJECT_DIR$/Decorator/Restaurant_B7/Restaurant_B7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Restaurant_B8/Restaurant_B8.iml" filepath="$PROJECT_DIR$/Composite/Restaurant_B8/Restaurant_B8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Restaurant_B9/Restaurant_B9.iml" filepath="$PROJECT_DIR$/Proxy/Restaurant_B9/Restaurant_B9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Restaurant__B1/Restaurant__B1.iml" filepath="$PROJECT_DIR$/Builder_v2/Restaurant__B1/Restaurant__B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/STB_10/STB_10.iml" filepath="$PROJECT_DIR$/Strategy/STB_10/STB_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" filepath="$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" />
@@ -72,6 +75,7 @@
       <module fileurl="file://$PROJECT_DIR$/Facade/Spital_A6/Spital_A6.iml" filepath="$PROJECT_DIR$/Facade/Spital_A6/Spital_A6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Spital_A7/Spital_A7.iml" filepath="$PROJECT_DIR$/Decorator/Spital_A7/Spital_A7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Spital_A8/Spital_A8.iml" filepath="$PROJECT_DIR$/Composite/Spital_A8/Spital_A8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Spital_A9/Spital_A9.iml" filepath="$PROJECT_DIR$/Proxy/Spital_A9/Spital_A9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Spital__A1/Spital__A1.iml" filepath="$PROJECT_DIR$/Builder_v2/Spital__A1/Spital__A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Sportiv_E10/Sportiv_E10.iml" filepath="$PROJECT_DIR$/Flyweight/Sportiv_E10/Sportiv_E10.iml" />
