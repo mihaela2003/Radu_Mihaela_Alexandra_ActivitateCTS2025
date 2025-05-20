@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Farmacie_C1/Farmacie_C1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Farmacie_C10/Farmacie_C10.iml" filepath="$PROJECT_DIR$/Flyweight/Farmacie_C10/Farmacie_C10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Farmacie_C11/Farmacie_C11.iml" filepath="$PROJECT_DIR$/Strategy/Farmacie_C11/Farmacie_C11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Farmacie_C14/Farmacie_C14.iml" filepath="$PROJECT_DIR$/Template/Farmacie_C14/Farmacie_C14.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Farmacie_C2/Farmacie_C2.iml" filepath="$PROJECT_DIR$/FactoryMethod/Farmacie_C2/Farmacie_C2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Farmacie_C3/Farmacie_C3.iml" filepath="$PROJECT_DIR$/Builder_v1/Farmacie_C3/Farmacie_C3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Farmacie_C4/Farmacie_C4.iml" filepath="$PROJECT_DIR$/Prototype/Farmacie_C4/Farmacie_C4.iml" />
@@ -41,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Restaurant_B1/Restaurant_B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Restaurant_B10/Restaurant_B10.iml" filepath="$PROJECT_DIR$/Flyweight/Restaurant_B10/Restaurant_B10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Restaurant_B11/Restaurant_B11.iml" filepath="$PROJECT_DIR$/Strategy/Restaurant_B11/Restaurant_B11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Restaurant_B14/Restaurant_B14.iml" filepath="$PROJECT_DIR$/Template/Restaurant_B14/Restaurant_B14.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Restaurant_B2/Restaurant_B2.iml" filepath="$PROJECT_DIR$/Builder_v1/Restaurant_B2/Restaurant_B2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" filepath="$PROJECT_DIR$/FactoryMethod/Restaurant_B3/Restaurant_B3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Restaurant_B4/Restaurant_B4.iml" filepath="$PROJECT_DIR$/Prototype/Restaurant_B4/Restaurant_B4.iml" />
@@ -69,6 +71,7 @@
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Spital_A1/Spital_A1.iml" filepath="$PROJECT_DIR$/Builder_v1/Spital_A1/Spital_A1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Spital_A10/Spital_A10.iml" filepath="$PROJECT_DIR$/Flyweight/Spital_A10/Spital_A10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Spital_A11/Spital_A11.iml" filepath="$PROJECT_DIR$/Strategy/Spital_A11/Spital_A11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Spital_A14/Spital_A14.iml" filepath="$PROJECT_DIR$/Template/Spital_A14/Spital_A14.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Spital_A2/Spital_A2.iml" filepath="$PROJECT_DIR$/SimpleFactory/Spital_A2/Spital_A2.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethod/Spital_A3/Spital_A3.iml" filepath="$PROJECT_DIR$/FactoryMethod/Spital_A3/Spital_A3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/Spital_A4/Spital_A4.iml" filepath="$PROJECT_DIR$/Prototype/Spital_A4/Spital_A4.iml" />
@@ -85,6 +88,7 @@
       <module fileurl="file://$PROJECT_DIR$/Composite/Sportiv_E9/Sportiv_E9.iml" filepath="$PROJECT_DIR$/Composite/Sportiv_E9/Sportiv_E9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Subiecte_test1/Subiecte_test1.iml" filepath="$PROJECT_DIR$/Subiecte_test1/Subiecte_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" filepath="$PROJECT_DIR$/Adapter/adapterclase/adapterclase.iml" />
       <module fileurl="file://$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" filepath="$PROJECT_DIR$/Adapter/adapterobiecte/adapterobiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/agentie/agentie.iml" filepath="$PROJECT_DIR$/Composite/agentie/agentie.iml" />
