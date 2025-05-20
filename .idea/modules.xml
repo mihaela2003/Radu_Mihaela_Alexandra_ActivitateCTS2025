@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Decorator/Banca_D7/Banca_D7.iml" filepath="$PROJECT_DIR$/Decorator/Banca_D7/Banca_D7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Banca_D9/Banca_D9.iml" filepath="$PROJECT_DIR$/Composite/Banca_D9/Banca_D9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Banca__D3/Banca__D3.iml" filepath="$PROJECT_DIR$/Builder_v1/Banca__D3/Banca__D3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Banca__D7/Banca__D7.iml" filepath="$PROJECT_DIR$/Facade/Banca__D7/Banca__D7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Banca___D3/Banca___D3.iml" filepath="$PROJECT_DIR$/Builder_v2/Banca___D3/Banca___D3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v1/Builder_v1.iml" filepath="$PROJECT_DIR$/Builder_v1/Builder_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Builder_v2.iml" filepath="$PROJECT_DIR$/Builder_v2/Builder_v2.iml" />
@@ -48,6 +49,7 @@
       <module fileurl="file://$PROJECT_DIR$/Builder_v2/Restaurant__B1/Restaurant__B1.iml" filepath="$PROJECT_DIR$/Builder_v2/Restaurant__B1/Restaurant__B1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/STB_10/STB_10.iml" filepath="$PROJECT_DIR$/Strategy/STB_10/STB_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" filepath="$PROJECT_DIR$/SimpleFactory/STB_F1/STB_F1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/STB_F5/STB_F5.iml" filepath="$PROJECT_DIR$/Facade/STB_F5/STB_F5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/STB_F7/STB_F7.iml" filepath="$PROJECT_DIR$/Decorator/STB_F7/STB_F7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/STB_F9/STB_F9.iml" filepath="$PROJECT_DIR$/Flyweight/STB_F9/STB_F9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
@@ -74,6 +76,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" filepath="$PROJECT_DIR$/SimpleFactory/Sportiv_E1/Sportiv_E1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Flyweight/Sportiv_E10/Sportiv_E10.iml" filepath="$PROJECT_DIR$/Flyweight/Sportiv_E10/Sportiv_E10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Sportiv_E11/Sportiv_E11.iml" filepath="$PROJECT_DIR$/Strategy/Sportiv_E11/Sportiv_E11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Sportiv_E6/Sportiv_E6.iml" filepath="$PROJECT_DIR$/Facade/Sportiv_E6/Sportiv_E6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Sportiv_E7/Sportiv_E7.iml" filepath="$PROJECT_DIR$/Decorator/Sportiv_E7/Sportiv_E7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite/Sportiv_E9/Sportiv_E9.iml" filepath="$PROJECT_DIR$/Composite/Sportiv_E9/Sportiv_E9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
