@@ -1,6 +1,10 @@
 package testareUnitara.teste;
 
 import org.junit.Test;
+import org.junit.experimental.categories.Category;
+import testareUnitara.categorii.CategorieBoundary;
+import testareUnitara.categorii.CategorieRight;
+import testareUnitara.clase.IPersoana;
 import testareUnitara.clase.Persoana;
 import testareUnitara.exceptii.ExceptieCNPInexistent;
 import testareUnitara.exceptii.ExceptieCNPInvalid;
@@ -16,24 +20,28 @@ public class GetVarstaTest {
     }
 
     @org.junit.Test
+    @Category(CategorieRight.class)
     public void getVarstaRight() {
         persoana = new Persoana("gigel", "1921126781234");
         assertEquals(32,persoana.getVarsta());
     }
 
     @org.junit.Test
+    @Category(CategorieRight.class)
     public void getVarstaRight1() {
         persoana = new Persoana("gigel", "6021126781234");
         assertEquals(22,persoana.getVarsta());
     }
 
     @org.junit.Test
+    @Category(CategorieBoundary.class)
     public void getVarstaBICEPBoundary() {
         persoana = new Persoana("gigel", "1991231781234");
         assertEquals(25,persoana.getVarsta());
     }
 
     @org.junit.Test
+    @Category(CategorieBoundary.class)
     public void getVarstaBICEPBoundary1() {
         persoana = new Persoana("gigel", "5000101781234");
         assertEquals(25,persoana.getVarsta());
@@ -80,5 +88,19 @@ public class GetVarstaTest {
     public void getVarstaCORRECTCardinality1(){
         persoana = new Persoana("gigel", "6240129462748");
         assertEquals(1, persoana.getVarsta());
+    }
+
+    @Test
+    @Category(CategorieRight.class)
+    public void getVarstaRight2(){
+        IPersoana persoana1 = new Persoana("gigel", "1980213031764");
+        assertEquals(27, persoana1.getVarsta());
+    }
+
+    @Test
+    @Category({CategorieBoundary.class, CategorieRight.class})
+    public void getVarstaBoundary(){
+        IPersoana persoana1 = new Persoana("gigel", "5000101031764");
+        assertEquals(25, persoana1.getVarsta());
     }
 }
